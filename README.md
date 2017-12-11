@@ -1,7 +1,7 @@
 # Deep Learning in Computer Vision #
 Assignments for course COMP4901J from HKUST and CS231n from Stanford University<br />
 
-## Authors #
+## Author #
 Xuhua HUANG
 
 ## This repo includes:
