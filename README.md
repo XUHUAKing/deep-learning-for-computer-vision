@@ -10,6 +10,6 @@ Author: Xuhua HUANG
 
 Details about these assignments can be found:
 * [on the Stanford course webpage](http://cs231n.github.io/) from Stanford University
-* [on the HKUST course webpage](https://course.cse.ust.hk/comp4901j/Password_Only/programs/index.html) from HKUST
+* [on the HKUST course webpage](https://course.cse.ust.hk/comp4901j/Password_Only/programs/index.html) from Hong Kong University of Science and Technology
 
 
