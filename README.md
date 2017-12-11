@@ -8,3 +8,8 @@ Author: Xuhua HUANG
 3. Image Captioning, Network Visualization, Style Transfer, Generative Adversarial Networks
 4. Q-learning, Deep Q-Networks, Policy Gradient, Model Network
 
+Details about these assignments can be found:
+* [on the Stanford course webpage](http://cs231n.github.io/) from Stanford University
+* [on the HKUST course webpage](https://course.cse.ust.hk/comp4901j/Password_Only/programs/index.html) from HKUST
+
+
