@@ -1,6 +1,6 @@
 # deep-Learning-for-computer-vision
 Assignments for course COMP4901J from HKUST and CS231n from Stanford University<br />
-author: Xuhua HUANG
+Author: Xuhua HUANG
 
 #### This repo includes: #### 
 1. Image Classification, kNN, SVM, Softmax, Neural Network
